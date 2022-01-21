@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://oxon.life</id>
+    <title>Oxon</title>
+    <updated>2022-01-18T07:17:45Z</updated>
+    <generator>Oxon</generator>
+    <author>
+        <name>Oxon</name>
+    </author>
+    <link rel="alternate" href="https://oxon.life"/>
+    <link rel="self" href="https://oxon.life/f"/>
+    <subtitle>Oxon</subtitle>
+    <entry>
+        <title type="html"><![CDATA[How To Create A Plant Loving Home]]></title>
+        <id>how-to-create-a-plant-loving-home</id>
+        <link href="https://oxon.life/f/how-to-create-a-plant-loving-home">
+        </link>
+        <updated>2022-01-18T07:17:45Z</updated>
+        <content type="html"><![CDATA[<img src="https://img1.wsimg.com/isteam/ip/d30ea92c-b765-41f8-accd-2e2a004b67ac/istockphoto-1292568551-170667a.jpg"/><p>Trying to please all the senses, that’s the essence of successful biophilic design and urban jungle design!</p>]]></content>
+    </entry>
+</feed>
